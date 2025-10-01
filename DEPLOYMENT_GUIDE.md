@@ -62,7 +62,7 @@ git push -u origin main
 ### 3.3 Wait for Deployment
 - GitHub will start building your site (this may take a few minutes)
 - You'll see a green checkmark when it's ready
-- Your site will be available at: `https://YOUR_USERNAME.github.io/YOUR_REPOSITORY_NAME/`
+- Your site will be available at: `https:///Yash123414.github.io/My-portfolio/`
 
 ## ✅ Step 4: Verify Deployment
 
